@@ -94,6 +94,6 @@ font-size: 1.25em
 /* ===== FAQs SECTION ===== */
 .faq {
     /* TODO: Add an orange left border and padding to the list section */
-    border-left: 2px solid #DF4601
+    border-left: 2px solid #DF4601;
     padding: 2em;
 }
