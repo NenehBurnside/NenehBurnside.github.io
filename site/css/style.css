@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    background-color: #7F011F;
+    color: #F5EBD0;
+}
+
+h1{
+    font-size: 25px;
+}
+
+h2{
+    font-size: 25px;
+    margin-top: 80px;
+    text-align: center;
+    width:auto
+}
+
+h3{
+    font-size: 20px;
+    width: 175px;
+}
+
+h4{
+    width: 175px;
+    font-size: 20px;
+}
+
+h5{
+    width: 175px;
+    font-size: 20px;
+}
+
+h6{
+    width: 175px;
+    font-size: 20px;
+}
