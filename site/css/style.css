@@ -1,6 +1,16 @@
+body{
+    background-color: #722F37;
+    color: antiquewhite;
+    font-family: "Crimson Pro", serif;;
+}
 
 h1{
     font-size: 20px;
+    font-family: "DM Serif Display" , serif;
+}
+
+h2{
+    background-color: #5A1E24;
 }
 
 h5{
@@ -18,4 +28,9 @@ h7{
 
 h8{
     font-size: 25px;
+}
+
+h9{
+    font-family: "Dancing Script", serif;
+    font-size: 55px;
 }
