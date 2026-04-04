@@ -2,13 +2,34 @@ body{
     background-color: #722F37;
     color: antiquewhite;
     font-family: "Crimson Pro", serif;;
+    font-size: 16px;
+}
+
+nav{
+    font-size: 1.25em;
+    font-family: "DM Serif Display",serif;
+    text-align: center;
+}
+
+nav a,
+a {
+    color: antiquewhite;
 }
 
 h1{
-    font-size: 20px;
-    font-family: "DM Serif Display" , serif;
+     font-family: "Dancing Script", serif;
+    font-size: 3.4em;
 }
 
+.container{
+    padding: 5em 0;
+}
+
+section{
+    padding: 3em 0;
+}
+
+/*
 h2{
     background-color: #5A1E24;
 }
@@ -30,7 +51,4 @@ h8{
     font-size: 25px;
 }
 
-h9{
-    font-family: "Dancing Script", serif;
-    font-size: 55px;
-}
+*/
